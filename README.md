@@ -1,2 +1,2 @@
 # LTSA
-simple R script to generate long-term average spectrograms
+Simple R script to generate long-term average spectrograms
